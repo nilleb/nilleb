@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a few ideas (undisclosed yet! 🌟)
+- 🌱 I’m currently learning VueJS
+- 💬 Ask me about python, search engines, engineering management
+- 📫 How to reach me: me@$mynickname.com
+- 😄 Pronouns: he/him
+
 <!--
 **nilleb/nilleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
