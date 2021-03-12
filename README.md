@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a few ideas (undisclosed yet! 🌟)
 - 🌱 I’m currently learning VueJS
-- 💬 Ask me about python, search engines, engineering management, multimedia information extraction, human behavior, basketball, Italy, France...
+- 💬 Ask me about python, search engines 🔎, engineering management, multimedia information extraction, human behavior, 🏀, 🇮🇹, 🇫🇷...
 - 📫 How to reach me: me@${mynickname}.com
 - 😄 Pronouns: he/him
 
