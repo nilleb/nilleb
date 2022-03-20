@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few ideas (undisclosed yet! 🌟)
-- 🌱 I’m currently learning VueJS
+- 🔭 I’m always working on new ideas (undisclosed yet! 🌟)
+- 🌱 I’m currently learning Guitar ;-)
 - 💬 Ask me about python, search engines 🔎, engineering management, multimedia information extraction, human behavior, 🏀, 🇮🇹, 🇫🇷...
-- 📫 How to reach me: me@${mynickname}.com
+- 📫 How to reach me: ivo@${mynickname}.com
 - 😄 Pronouns: he/him
 
 <!--
