@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m always working on new ideas (undisclosed yet! 🌟)
-- 🌱 I’m currently learning Guitar ;-)
-- 💬 Ask me about python, search engines 🔎, engineering management, multimedia information extraction, human behavior, 🏀, 🇮🇹, 🇫🇷...
+- 🔭 I’m always working on new ideas 🌟
+- 💬 Ask me about python 🐍, search engines 🔎, engineering management, multimedia information extraction, human behavior, 🏀, 🇮🇹, 🇫🇷...
 - 📫 How to reach me: ivo@${mynickname}.com
 - 😄 Pronouns: he/him
 
